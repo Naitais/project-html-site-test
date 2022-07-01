@@ -1,3 +1,9 @@
 body{
     background-color: cornflowerblue;
 }
+.title {
+    color: blueviolet;
+}
+.subtitle {
+    color: chartreuse;
+}
