@@ -1,12 +1,9 @@
-body{
-    background-color: cornflowerblue;
+#title {
+    color: rgb(158, 116, 49);
 }
-.title {
-    color: blueviolet;
-}
+
 .subtitle {
-    color: chartreuse;
+    color: rgb(209, 153, 63);
 }
-#title-list {
-    color:crimson
-}
+
+
