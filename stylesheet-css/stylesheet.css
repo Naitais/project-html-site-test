@@ -1,7 +1,9 @@
 body {
     background: rgb(240, 218, 132);
     text-align: justify;
-    font-family:sans-serif;
+    font-family:"Josefin Sans";
+    /*"Alternative fonts: 1) Oswald"
+    2) Kanit*/
 }
 #lista-fondo {
     
