@@ -1,7 +1,7 @@
 body {
     background: rgb(240, 218, 132);
     text-align: justify;
-    font-family: "Kanit";
+    font-family: "Kanit", sans-serif;
     /*"Alternative fonts: 1) Oswald"
     2) Kanit*/
 }
@@ -13,24 +13,26 @@ body {
 #title {
     color: rgb(158, 116, 49);
     text-align: center;
-    font-family: "Oswald";
+    font-family: "Oswald", sans-serif;
 }
 
 .subtitle {
     color: rgb(209, 153, 63);
-    font-family: "Kanit";
+    font-family: "Kanit", sans-serif;
 }
 
 #subtitle {
     color: rgb(209, 153, 63);
     text-align: center;
-    font-family: "Kanit";
+    font-family: "Kanit", sans-serif;
 }
 
 .link {
     text-decoration: ;
 }
 #img-intro{
-    height: 300px;
+    height: 350px;
     width: 100%;
+    border: 3px solid rgb(99, 73, 30);
+    
 }
