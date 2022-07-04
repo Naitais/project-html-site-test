@@ -1,3 +1,10 @@
+body {
+    background: rgb(240, 218, 132)
+}
+#lista-fondo {
+    background:rgb(209, 153, 63)
+}
+
 #title {
     color: rgb(158, 116, 49);
 }
