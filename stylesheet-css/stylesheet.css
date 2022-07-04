@@ -10,10 +10,16 @@ body {
 
 #title {
     color: rgb(158, 116, 49);
+    text-align: center;
 }
 
 .subtitle {
     color: rgb(209, 153, 63);
+}
+
+#subtitle {
+    color: rgb(209, 153, 63);
+    text-align: center
 }
 
 .link {
