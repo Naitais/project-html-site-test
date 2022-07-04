@@ -1,5 +1,6 @@
 body {
     background: rgb(240, 218, 132);
+    text-align: justify;
 }
 #lista-fondo {
     
@@ -14,4 +15,10 @@ body {
     color: rgb(209, 153, 63);
 }
 
-
+.link {
+    text-decoration: ;
+}
+#img-intro{
+    height: 300px;
+    width: 100%;
+}
